@@ -1,63 +1,19 @@
-<h1 align="center">Hi, I'm Ahmad</h1>
+<h1 align="center">I'm Ahmad</h1>
+<h3 align="center">A Tech-Agnostic Developer</h3>
 
-I develop full-stack applications, build machine learning models, and analyze data to solve real-world problems.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=27ahmad&label=Profile%20views&color=0e75b6&style=flat" alt="27ahmad" /> </p>
 
-## Tech Stack
-- **Languages:** Python, JavaScript, HTML, CSS, SQL
-- **Frameworks/Libraries:** Django, Express.js, Node.js, Streamlit, Bootstrap
-- **Data Science:** Pandas, Scikit-learn, NumPy
-- **Databases:** PostgreSQL, Sequelize
-- **Tools:** Git, GitHub, JWT
 
-## Projects
+- 🌱 I’m currently learning **Java, Spring Boot.**
 
-### [Medicine Recommendation System](https://github.com/27ahmad/Medicine-Recommendation-System)
-- ML-based system recommending medicines from symptom input
-- Built with scikit-learn and a Bootstrap frontend
+- ⚡ Fun fact **The word "passionate" is used by every 9/10 developer.**
 
-### [Movie Recommendation System](https://github.com/27ahmad/Movie-Recommendation-System)
-- Streamlit application providing personalized movie suggestions
-- Uses Python, Pandas, NumPy, and Scikit-learn
-
-### [CRM with Django](https://github.com/27ahmad/CRM-with-Django)
-- Customer Relationship Management system with full CRUD functionality
-- Includes user authentication and responsive design with Bootstrap
-
-### [Netflix SQL Project](https://github.com/27ahmad/Netflix_SQL_Project)
-- Analyzed a Netflix dataset with complex SQL queries
-- Derived insights on content trends
-
-### [Employee API](https://github.com/27ahmad/EmployeeAPI)
-- RESTful API built with Node.js and Express
-- Features JWT authentication and Sequelize for database management
-
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=27ahmad&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=27ahmad&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-
-## Current Focus
-- Advancing skills in machine learning and data science
-- Developing more full-stack applications
-- Contributing to open-source projects
-
-## Connect With Me
+<h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://linkedin.com/in/ahmad27" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ahmad27" height="30" width="40" />
-  </a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=27ahmad&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-</p>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
 
----
 
-<p align="center">Last updated: December 25, 2024</p>
 
