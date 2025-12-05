@@ -1,12 +1,7 @@
 <h1 align="center">I'm Ahmad</h1>
-<h3 align="center">A Tech-Agnostic Developer</h3>
+<h3 align="center">I like to build stuff</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=27ahmad&label=Profile%20views&color=0e75b6&style=flat" alt="27ahmad" /> </p>
-
-
-- 🌱 I’m currently learning **Java, Spring Boot.**
-
-- ⚡ Fun fact **The word "passionate" is used by every 9/10 developer.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
